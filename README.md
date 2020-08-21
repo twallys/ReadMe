@@ -14,6 +14,7 @@
 <a href="https://www.instagram.com/talles.a.reis"><img align="left" alt="Talles Reis LinkedIn" width="22px" src="https://simpleicons.org/icons/instagram.svg" /> </a>
 
 <br/>
+
 ### Techs
 
 <img align="left" alt="Talles Reis LinkedIn" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
