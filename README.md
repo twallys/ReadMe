@@ -1,6 +1,4 @@
-### Salve, Meu nome é Talles - Desenvolvedor FullStack |NodeJS, ReactJS, React Native|
-
-<br />
+### Salve, Meu nome é Talles - Desenvolvedor FullStack | NodeJS, ReactJS, React Native |
 
 ## Cristão, Desenvolvedor, e Líder de um grupo de Adolescentes!
 - 💼 Atualmente trabalhando na Corbã Sistemas [Empresa da Família].
@@ -10,16 +8,12 @@
 - 🚀 O objetivo principal é inicar algo que possa mudar as vidas das pessoas, oferecendo oportunidades e apoio
 - ✝
 
-<br/>
-
 ### Me encontre nas Redes
 
 <a href="https://www.linkedin.com/in/talles-r-ab9706aa/"><img align="left" alt="Talles Reis LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" /> </a>
 <a href="https://www.instagram.com/talles.a.reis"><img align="left" alt="Talles Reis LinkedIn" width="22px" src="https://simpleicons.org/icons/instagram.svg" /> </a>
 
 <br/>
-<br/>
-
 ### Techs
 
 <img align="left" alt="Talles Reis LinkedIn" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
