@@ -14,9 +14,10 @@
 
 ### Me encontre nas Redes
 
-[<img align="left" alt="Talles Reis LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Talles Reis LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/instagram.svg" />][instagram]
+[<a href="https://www.linkedin.com/in/talles-r-ab9706aa/"><img align="left" alt="Talles Reis LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" /> </a>]
+[<a href="https://www.instagram.com/talles.a.reis"><img align="left" alt="Talles Reis LinkedIn" width="22px" src="https://simpleicons.org/icons/instagram.svg" /> </a>]
 
+<br/>
 <br/>
 
 ### Techs
