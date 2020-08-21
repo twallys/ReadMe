@@ -14,15 +14,15 @@
 
 ### Me encontre nas Redes
 
-[<a href="https://www.linkedin.com/in/talles-r-ab9706aa/"><img align="left" alt="Talles Reis LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" /> </a>]
-[<a href="https://www.instagram.com/talles.a.reis"><img align="left" alt="Talles Reis LinkedIn" width="22px" src="https://simpleicons.org/icons/instagram.svg" /> </a>]
+<a href="https://www.linkedin.com/in/talles-r-ab9706aa/"><img align="left" alt="Talles Reis LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" /> </a>
+<a href="https://www.instagram.com/talles.a.reis"><img align="left" alt="Talles Reis LinkedIn" width="22px" src="https://simpleicons.org/icons/instagram.svg" /> </a>
 
 <br/>
 <br/>
 
 ### Techs
 
-[<img align="left" alt="Talles Reis LinkedIn" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="Talles Reis LinkedIn" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="Talles Reis LinkedIn" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" alt="Talles Reis LinkedIn" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+<img align="left" alt="Talles Reis LinkedIn" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Talles Reis LinkedIn" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="Talles Reis LinkedIn" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Talles Reis LinkedIn" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
