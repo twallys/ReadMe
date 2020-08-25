@@ -1,6 +1,7 @@
-### Salve, Meu nome é Talles - Desenvolvedor FullStack | NodeJS, ReactJS, React Native |
+### Salve, Meu nome é Talles - Analista de Software | Desenvolvedor FullStack | NodeJS, ReactJS, React Native |
 
 ## Cristão, Desenvolvedor, e Líder de um grupo de Adolescentes!
+- 🎓 Formado em Analise e Desenvolvimento de Sistemas
 - 💼 Atualmente trabalhando na Corbã Sistemas [Empresa da Família].
 - 📚 Focando meus estudos em aprofundar nas tecnologias NodeJs | ReactJs | React Native.
 - 👨‍💻 Apaixonado pela área de tecnologia, é como uma jornada que não tem fim.
